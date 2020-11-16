@@ -1,4 +1,4 @@
-# hello_world
+# helo_world
 beginner github learning
 Print(hello world)
 this is tens first practice on github
